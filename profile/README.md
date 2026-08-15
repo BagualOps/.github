@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Open-source tools for managing Linux server fleets.</b><br>
-  Built at AI Horizon Labs, Universidade Federal do Pampa (UNIPAMPA), Alegrete, Brazil.
+  Built at <a href="https://ai-horizon-labs.github.io/">AI Horizon Labs</a>, in Alegrete, Rio Grande do Sul, Brazil.
 </p>
 
 ## Tools
@@ -40,11 +40,31 @@ the mark comes from.
 
 ## People
 
-All three of us are at AI Horizon Labs, UNIPAMPA.
+We work at [AI Horizon Labs](https://ai-horizon-labs.github.io/), a research group on
+artificial intelligence and software engineering at the Universidade Federal do Pampa
+(UNIPAMPA), on the Alegrete campus in Rio Grande do Sul, Brazil. The group is tied to the
+university's graduate program in software engineering (Programa de Pós-Graduação em Engenharia
+de Software, PPGES).
 
-- **Rui de Quadros Ribeiro**, also at UFRGS. [ORCID 0000-0003-0287-9007](https://orcid.org/0000-0003-0287-9007)
-- **Cristhian Kapelinski**. [ORCID 0009-0005-5750-022X](https://orcid.org/0009-0005-5750-022X)
-- **Diego Kreutz**. [ORCID 0000-0003-0830-0238](https://orcid.org/0000-0003-0830-0238)
+- **Rui de Quadros Ribeiro**, AI Horizon Labs and PPGES at UNIPAMPA, and the data processing
+  center (Centro de Processamento de Dados, CPD) of the Universidade Federal do Rio Grande do
+  Sul (UFRGS).
+  [ORCID](https://orcid.org/0000-0003-0287-9007) ·
+  [Lattes](http://lattes.cnpq.br/3586977972572902) ·
+  [GitHub](https://github.com/ruiribeirotk) ·
+  [LinkedIn](https://www.linkedin.com/in/ruiribeirotk/)
+- **Cristhian Kapelinski**, AI Horizon Labs at UNIPAMPA.
+  [ORCID](https://orcid.org/0009-0005-5750-022X) ·
+  [GitHub](https://github.com/CristhianKapelinski)
+- **Diego Kreutz**, AI Horizon Labs and PPGES at UNIPAMPA.
+  [ORCID](https://orcid.org/0000-0003-0830-0238) ·
+  [Lattes](http://lattes.cnpq.br/2781747995973774) ·
+  [Google Scholar](https://scholar.google.com/citations?user=JcL8biEAAAAJ) ·
+  [GitHub](https://github.com/diegokreutz) ·
+  [LinkedIn](https://www.linkedin.com/in/diegokreutz/)
+
+Lattes is the Brazilian national registry of researcher CVs, maintained by CNPq, the federal
+research council.
 
 ## Citing
 
