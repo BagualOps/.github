@@ -9,7 +9,7 @@
 
 ## Tools
 
-### [AdminForge](https://github.com/BagualOps/adminforge-sbseg2026)
+### [AdminForge](https://github.com/BagualOps/adminforge)
 
 AdminForge manages accounts, SSH keys, groups and access permissions across a fleet of Linux
 servers from a single operator machine. The operator writes down the access state the fleet
@@ -23,7 +23,8 @@ agent, no resident service, only SSH.
 | Runtime | Python 3.11 or newer, standard library only. There are no third-party packages to install, and none that can later break the tool. |
 | License | AGPL-3.0-or-later |
 | Published at | SBSeg 2026, Salão de Ferramentas, the open-source track of the Brazilian Symposium on Information and Computer System Security |
-| Artifact | [`adminforge-sbseg2026`](https://github.com/BagualOps/adminforge-sbseg2026), with one command per claim in the paper, offline unit tests, and the reference results |
+| Repository | [`adminforge`](https://github.com/BagualOps/adminforge), the tool and its documentation |
+| Frozen artifact | [`adminforge-sbseg2026`](https://github.com/BagualOps/adminforge-sbseg2026), the paper version, with one command per claim, offline unit tests, and the reference results |
 
 A recorded walkthrough, in Portuguese, covers installation and each command in turn.
 
