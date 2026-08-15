@@ -76,6 +76,7 @@ de Software, PPGES).
 <b>CRISTHIAN KAPELINSKI</b> is currently pursuing the B.S. degree in computer science with the Universidade Federal do Pampa (UNIPAMPA), Alegrete, Brazil. He is a pre-master's research fellow in AI security with the LARC laboratory of the Polytechnic School, University of São Paulo (USP). He was a CNPq research fellow with the Instituto Tecnológico de Aeronáutica (ITA), on automated detection and response to cyber threats, and a research fellow with the Brazilian National Research and Education Network (RNP), where he led the development of the AnonShield and AnonLFI pseudonymization frameworks. His research interests include security, privacy, and machine learning, with emphasis on the pseudonymization of sensitive data and on attacks and defenses for large language models. He received the Best Artifact Award at SBRC 2026 and second place for best paper at WRSeg 2025.
 <br><br>
 <a href="https://orcid.org/0009-0005-5750-022X">ORCID</a> ·
+<a href="http://lattes.cnpq.br/0100277568164430">Lattes</a> ·
 <a href="https://scholar.google.com/citations?user=lV1lq-0AAAAJ">Scholar</a> ·
 <a href="https://github.com/CristhianKapelinski">GitHub</a> ·
 <a href="https://www.linkedin.com/in/cristhiankapelinski">LinkedIn</a>
