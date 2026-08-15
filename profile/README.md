@@ -62,7 +62,9 @@ de Software, PPGES).
   [LinkedIn](https://www.linkedin.com/in/ruiribeirotk/)
 - **Cristhian Kapelinski**, AI Horizon Labs at UNIPAMPA.
   [ORCID](https://orcid.org/0009-0005-5750-022X) ·
-  [GitHub](https://github.com/CristhianKapelinski)
+  [Google Scholar](https://scholar.google.com/citations?user=lV1lq-0AAAAJ) ·
+  [GitHub](https://github.com/CristhianKapelinski) ·
+  [LinkedIn](https://www.linkedin.com/in/cristhiankapelinski)
 - **Diego Kreutz**, AI Horizon Labs and PPGES at UNIPAMPA.
   [ORCID](https://orcid.org/0000-0003-0830-0238) ·
   [Lattes](http://lattes.cnpq.br/2781747995973774) ·
