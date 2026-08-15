@@ -54,24 +54,38 @@ artificial intelligence and software engineering at the Universidade Federal do 
 university's graduate program in software engineering (Programa de Pós-Graduação em Engenharia
 de Software, PPGES).
 
-- **Rui de Quadros Ribeiro**, AI Horizon Labs and PPGES at UNIPAMPA, and the data processing
-  center (Centro de Processamento de Dados, CPD) of the Universidade Federal do Rio Grande do
-  Sul (UFRGS).
-  [ORCID](https://orcid.org/0000-0003-0287-9007) ·
-  [Lattes](http://lattes.cnpq.br/3586977972572902) ·
-  [GitHub](https://github.com/ruiribeirotk) ·
-  [LinkedIn](https://www.linkedin.com/in/ruiribeirotk/)
-- **Cristhian Kapelinski**, AI Horizon Labs at UNIPAMPA.
-  [ORCID](https://orcid.org/0009-0005-5750-022X) ·
-  [Google Scholar](https://scholar.google.com/citations?user=lV1lq-0AAAAJ) ·
-  [GitHub](https://github.com/CristhianKapelinski) ·
-  [LinkedIn](https://www.linkedin.com/in/cristhiankapelinski)
-- **Diego Kreutz**, AI Horizon Labs and PPGES at UNIPAMPA.
-  [ORCID](https://orcid.org/0000-0003-0830-0238) ·
-  [Lattes](http://lattes.cnpq.br/2781747995973774) ·
-  [Google Scholar](https://scholar.google.com/citations?user=JcL8biEAAAAJ) ·
-  [GitHub](https://github.com/diegokreutz) ·
-  [LinkedIn](https://www.linkedin.com/in/diegokreutz/)
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/ruiribeirotk"><img src="https://github.com/ruiribeirotk.png?size=200" width="120" alt="Rui de Quadros Ribeiro"></a><br>
+<b>Rui de Quadros Ribeiro</b><br>
+<sub>Director of the data processing center (CPD) at UFRGS, where he has worked in IT since 2010, and a master's student in software engineering at UNIPAMPA. Digital identity management is his field.</sub><br><br>
+<a href="https://orcid.org/0000-0003-0287-9007">ORCID</a> ·
+<a href="http://lattes.cnpq.br/3586977972572902">Lattes</a> ·
+<a href="https://github.com/ruiribeirotk">GitHub</a> ·
+<a href="https://www.linkedin.com/in/ruiribeirotk/">LinkedIn</a>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/CristhianKapelinski"><img src="https://github.com/CristhianKapelinski.png?size=200" width="120" alt="Cristhian Kapelinski"></a><br>
+<b>Cristhian Kapelinski</b><br>
+<sub>Computer science undergraduate at UNIPAMPA, working where security, privacy and machine learning meet. He builds and evaluates the group's artifacts.</sub><br><br>
+<a href="https://orcid.org/0009-0005-5750-022X">ORCID</a> ·
+<a href="https://scholar.google.com/citations?user=lV1lq-0AAAAJ">Scholar</a> ·
+<a href="https://github.com/CristhianKapelinski">GitHub</a> ·
+<a href="https://www.linkedin.com/in/cristhiankapelinski">LinkedIn</a>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/diegokreutz"><img src="https://github.com/diegokreutz.png?size=200" width="120" alt="Diego Kreutz"></a><br>
+<b>Diego Kreutz</b><br>
+<sub>Professor and researcher at UNIPAMPA since 2008, working on systems and network security, software-defined networking and distributed systems. He advises the group.</sub><br><br>
+<a href="https://orcid.org/0000-0003-0830-0238">ORCID</a> ·
+<a href="http://lattes.cnpq.br/2781747995973774">Lattes</a> ·
+<a href="https://scholar.google.com/citations?user=JcL8biEAAAAJ">Scholar</a> ·
+<a href="https://github.com/diegokreutz">GitHub</a> ·
+<a href="https://www.linkedin.com/in/diegokreutz/">LinkedIn</a>
+</td>
+</tr>
+</table>
 
 Lattes is the Brazilian national registry of researcher CVs, maintained by CNPq, the federal
 research council.
