@@ -24,7 +24,14 @@ agent, no resident service, only SSH.
 | License | AGPL-3.0-or-later |
 | Published at | SBSeg 2026, Salão de Ferramentas, the open-source track of the Brazilian Symposium on Information and Computer System Security |
 | Artifact | [`adminforge-sbseg2026`](https://github.com/BagualOps/adminforge-sbseg2026), with one command per claim in the paper, offline unit tests, and the reference results |
-| Demonstration | [Video](https://youtu.be/6rs2qtIuMvs), in Portuguese, covering installation and use |
+
+A recorded walkthrough, in Portuguese, covers installation and each command in turn.
+
+<p align="center">
+  <a href="https://youtu.be/6rs2qtIuMvs">
+    <img src="assets/video.jpg" alt="Watch the AdminForge demonstration" width="640">
+  </a>
+</p>
 
 The artifact's own README is the only file a reader needs: it explains how to run the minimal
 test and how to reproduce each claim.
