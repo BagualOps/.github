@@ -3,48 +3,50 @@
 </p>
 
 <p align="center">
-  <b>Open-source tools for operating and securing Linux server fleets.</b><br>
-  Built at AI Horizon Labs, Universidade Federal do Pampa (UNIPAMPA).
+  <b>Open-source tools for managing Linux server fleets.</b><br>
+  Built at AI Horizon Labs, Universidade Federal do Pampa (UNIPAMPA), Alegrete, Brazil.
 </p>
-
----
 
 ## Tools
 
 ### [AdminForge](https://github.com/BagualOps/adminforge-sbseg2026)
 
-Declarative privileged-identity management for Linux server fleets. The operator declares the
-desired access state — accounts, SSH keys, groups and grants — previews the resulting changes,
-and applies them over SSH. Every operation is appended to a local, hash-chained history, and
-**nothing is installed on the managed hosts**: no agent, no resident service.
+AdminForge manages accounts, SSH keys, groups and access permissions across a fleet of Linux
+servers from a single operator machine. The operator writes down the access state the fleet
+should have, previews the changes that would follow from it, and applies them over SSH. Every
+operation is appended to a local history in which each entry carries a hash of the entry before
+it, so a later edit to the record is detectable. Nothing is installed on the managed hosts: no
+agent, no resident service, only SSH.
 
 | | |
 |---|---|
-| Runtime | Python ≥ 3.11, standard library only — **zero third-party runtime dependencies** |
+| Runtime | Python 3.11 or newer, standard library only. There are no third-party packages to install, and none that can later break the tool. |
 | License | AGPL-3.0-or-later |
-| Published at | SBSeg 2026, Salão de Ferramentas (open-source track) |
-| Artifact | [`adminforge-sbseg2026`](https://github.com/BagualOps/adminforge-sbseg2026) — one command per claim, offline unit tests, reference results |
-| Demo | [Vídeo de demonstração](https://youtu.be/6rs2qtIuMvs) — installation and features |
+| Published at | SBSeg 2026, Salão de Ferramentas, the open-source track of the Brazilian Symposium on Information and Computer System Security |
+| Artifact | [`adminforge-sbseg2026`](https://github.com/BagualOps/adminforge-sbseg2026), with one command per claim in the paper, offline unit tests, and the reference results |
+| Demonstration | [Video](https://youtu.be/6rs2qtIuMvs), in Portuguese, covering installation and use |
 
-Everything a reader needs is in the artifact's own README, including how to run the minimal
-test and reproduce each claim in the paper.
+The artifact's own README is the only file a reader needs: it explains how to run the minimal
+test and how to reproduce each claim.
 
 ## What this organization is for
 
-BagualOps holds the tools we build for real infrastructure work: operable from a terminal,
-auditable after the fact, and reproducible by someone who was not in the room. Each tool ships
-with its own artifact repository — tests, experiments and the data behind every published
-number — so that a claim can always be re-run rather than taken on faith.
+BagualOps holds the tools we build for server administration work. Each tool comes with an
+artifact repository that carries its tests, its experiments, and the data behind every number
+published about it, so a reader can re-run a claim instead of taking it on trust.
 
-*Bagual* is the untamed horse of the Pampa, which is where the mark comes from.
+A *bagual* is an untamed horse of the Pampa, the grasslands of southern Brazil. That is where
+the mark comes from.
 
 ## People
 
-- **Rui de Quadros Ribeiro** — [ORCID 0000-0003-0287-9007](https://orcid.org/0000-0003-0287-9007) — AI Horizon Labs / PPGES, UNIPAMPA; CPD, UFRGS
-- **Cristhian Kapelinski** — [ORCID 0009-0005-5750-022X](https://orcid.org/0009-0005-5750-022X) — AI Horizon Labs, UNIPAMPA
-- **Diego Kreutz** — [ORCID 0000-0003-0830-0238](https://orcid.org/0000-0003-0830-0238) — AI Horizon Labs, UNIPAMPA
+All three of us are at AI Horizon Labs, UNIPAMPA.
+
+- **Rui de Quadros Ribeiro**, also at UFRGS. [ORCID 0000-0003-0287-9007](https://orcid.org/0000-0003-0287-9007)
+- **Cristhian Kapelinski**. [ORCID 0009-0005-5750-022X](https://orcid.org/0009-0005-5750-022X)
+- **Diego Kreutz**. [ORCID 0000-0003-0830-0238](https://orcid.org/0000-0003-0830-0238)
 
 ## Citing
 
-Each repository carries a `CITATION.cff` and a citation section at the end of its README.
-Please cite the paper the tool was published in, not the repository URL alone.
+Every repository here carries a `CITATION.cff` file and a citation section at the end of its
+README. Cite the paper the tool was published in, rather than the repository URL alone.
