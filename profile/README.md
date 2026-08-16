@@ -9,7 +9,11 @@
 
 ## Tools
 
-### [AdminForge](https://github.com/BagualOps/adminforge)
+<p align="center">
+  <a href="https://github.com/BagualOps/adminforge">
+    <img src="assets/adminforge-logo-alpha.png" alt="AdminForge" width="360">
+  </a>
+</p>
 
 AdminForge manages accounts, SSH keys, groups and access permissions across a fleet of Linux
 servers from a single operator machine. The operator writes down the access state the fleet

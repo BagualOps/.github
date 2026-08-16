@@ -1,0 +1,48 @@
+Você vai criar a imagem de preview de uma organização no GitHub, em 1280x640 pixels, proporção
+2:1. É uma ilustração, não um diagrama.
+
+**Tema.** O BagualOps faz ferramentas de código aberto para administrar frotas de servidores
+Linux. O nome vem de bagual, o cavalo xucro do Pampa, e a marca é um cavalo. A imagem é sobre
+uma tropa grande que alguém conduz sozinho: muitos animais, uma pessoa, ordem no meio do campo
+aberto.
+
+**Cena pedida.** Campo aberto do Pampa ao entardecer, visto de longe e de cima, como quem olha
+de uma coxilha:
+
+- Do meio para a direita, uma tropa de cavalos vista de lado, em silhueta, caminhando em fila
+  larga na mesma direção. Dez a quinze animais, todos do mesmo tamanho aparente, espaçados de
+  forma regular, formando um padrão quase alinhado. É uma frota, não uma revoada.
+- No terço esquerdo, em primeiro plano e maior que os demais, um único cavalo parado, de
+  perfil, de crina ao vento, olhando na direção da tropa. É o personagem.
+- Sob os cascos, o campo: capim baixo com faixas horizontais alternadas, sugerindo fileiras
+  regulares sem virar grade.
+- Horizonte baixo, céu de fim de tarde ocupando quase metade da imagem, com nuvens compridas e
+  chapadas.
+
+**Estilo.** Ilustração vetorial de traço grosso, cheia de cor, no espírito de pôster de turismo
+antigo: formas sólidas, contorno escuro uniforme, sombreamento em blocos chapados e não em
+degradê suave. Nada de fotorrealismo, 3D, brilho metálico nem lens flare.
+
+**Paleta obrigatória.** Use estes valores e não invente tons vizinhos:
+
+| Cor | Onde usar |
+| --- | --- |
+| `#1D496B` | azul da marca: o cavalo em primeiro plano e as silhuetas da tropa |
+| `#2E6E9E` | azul médio: os animais mais distantes, dando profundidade |
+| `#E8D9B5` | creme: o capim seco do campo |
+| `#C9A227` | dourado: as faixas de campo que o sol ainda alcança |
+| `#8A5A2B` | marrom: a terra e as sombras longas no chão |
+| `#2E2118` | marrom escuro: todos os contornos |
+| `#F8F7F4` | branco quente: o céu e as nuvens |
+
+**Composição e legibilidade.** A imagem vai aparecer pequena, em cartão de link:
+
+- o cavalo em primeiro plano precisa ser reconhecível pela silhueta, de longe;
+- deixe o canto superior esquerdo calmo, sem detalhe, porque entra texto ali depois;
+- no máximo três focos de atenção na imagem inteira;
+- nada importante encostando nas bordas.
+
+**O que não fazer.** Sem nenhum texto, letra, número ou logotipo. Sem cavaleiro, sem gaúcho,
+sem pessoas, sem laço, sem sela, sem arreio. Sem servidor, armário de servidor, cabo, terminal,
+código, nuvem, cadeado ou engrenagem. Sem cavalo empinado em close dramático. Sem moldura, sem
+borda, sem cantos arredondados, sem marca d'água.
