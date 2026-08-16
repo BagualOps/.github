@@ -60,7 +60,7 @@ de Software, PPGES).
 <a href="https://github.com/ruiribeirotk"><img src="https://github.com/ruiribeirotk.png?size=200" width="120" alt="Rui de Quadros Ribeiro"></a>
 </td>
 <td valign="top">
-<b>RUI DE QUADROS RIBEIRO</b> received the B.S. degree in computer science from the Universidade Luterana do Brasil (ULBRA) and a specialization degree in information technology management from the Universidade Federal do Rio Grande do Sul (UFRGS). He has been with the data processing center (CPD) of UFRGS since 2010, in technical and then management roles, and works as a consultant on digital identity management. His interests include identity and access management, federated authentication, and Linux server infrastructure.
+<b>RUI DE QUADROS RIBEIRO</b> received the B.S. degree in computer science from the Universidade Luterana do Brasil (ULBRA) and a specialization degree in information technology management from the Universidade Federal do Rio Grande do Sul (UFRGS). He has been with the data processing center (CPD) of UFRGS since 2010, as an analyst and then in management, and has directed the center since 2024. He also works as a consultant on digital identity management. His interests include identity and access management, federated authentication, and Linux server infrastructure.
 <br><br>
 <a href="https://orcid.org/0000-0003-0287-9007">ORCID</a> ·
 <a href="http://lattes.cnpq.br/3586977972572902">Lattes</a> ·
