@@ -9,14 +9,16 @@
 
 ## Tools
 
-<a href="https://github.com/BagualOps/adminforge"><img src="assets/adminforge-logo-alpha.png" alt="AdminForge" width="230"></a>
-
-AdminForge manages accounts, SSH keys, groups and access permissions across a fleet of Linux
-servers from a single operator machine. The operator writes down the access state the fleet
-should have, previews the changes that would follow from it, and applies them over SSH. Every
-operation is appended to a local history in which each entry carries a hash of the entry before
-it, so a later edit to the record is detectable. Nothing is installed on the managed hosts: no
-agent, no resident service, only SSH.
+<table>
+<tr>
+<td width="250" valign="middle" align="center">
+<a href="https://github.com/BagualOps/adminforge"><img src="assets/adminforge-logo-alpha.png" alt="AdminForge" width="220"></a>
+</td>
+<td valign="middle">
+AdminForge manages accounts, SSH keys, groups and access permissions across a fleet of Linux servers from a single operator machine. The operator writes down the access state the fleet should have, previews the changes that would follow from it, and applies them over SSH. Every operation is appended to a local history in which each entry carries a hash of the entry before it, so a later edit to the record is detectable. Nothing is installed on the managed hosts: no agent, no resident service, only SSH.
+</td>
+</tr>
+</table>
 
 | | |
 |---|---|
