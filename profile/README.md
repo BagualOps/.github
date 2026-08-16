@@ -62,7 +62,7 @@ de Software, PPGES).
 <a href="https://github.com/ruiribeirotk"><img src="https://github.com/ruiribeirotk.png?size=200" width="120" alt="Rui de Quadros Ribeiro"></a>
 </td>
 <td valign="top">
-<b>RUI DE QUADROS RIBEIRO</b> received the B.S. degree in computer science from the Universidade Luterana do Brasil (ULBRA) and a specialization degree in information technology management from the Universidade Federal do Rio Grande do Sul (UFRGS). He has been with the data processing center (CPD) of UFRGS since 2010, as an analyst and then in management, and has directed the center since 2024. He also works as a consultant on digital identity management. His interests include identity and access management, federated authentication, and Linux server infrastructure.
+<b>RUI DE QUADROS RIBEIRO</b> is an IT analyst and manager at the data processing center (CPD) of the Universidade Federal do Rio Grande do Sul (UFRGS), which he has directed since 2024 and where he has worked since 2010, and a consultant on digital identity management. He received the B.S. degree in computer science from the Universidade Luterana do Brasil (ULBRA) and a specialization degree in information technology management from UFRGS. His interests include identity and access management, federated authentication, and Linux server infrastructure.
 <br><br>
 <a href="https://orcid.org/0000-0003-0287-9007">ORCID</a> ·
 <a href="http://lattes.cnpq.br/3586977972572902">Lattes</a> ·
@@ -89,7 +89,7 @@ de Software, PPGES).
 <a href="https://github.com/diegokreutz"><img src="https://github.com/diegokreutz.png?size=200" width="120" alt="Diego Kreutz"></a>
 </td>
 <td valign="top">
-<b>DIEGO KREUTZ</b> received the B.S. degree in computer science and the M.Sc. degrees in production engineering and in informatics from the Universidade Federal de Santa Maria (UFSM), and the Ph.D. degree in computing. He has been a professor and researcher with the Universidade Federal do Pampa (UNIPAMPA) since 2008, where he coordinates the group, and has also carried out research at the University of Lisbon, the University of Luxembourg and Monash University. His interests include cybersecurity and adversarial AI, language models, AutoML, distributed systems and networks, and software artifact engineering.
+<b>DIEGO KREUTZ</b> is a professor and researcher at AI Horizon Labs, Universidade Federal do Pampa (UNIPAMPA), where he has taught since 2008 and coordinates the group. He received the B.S. degree in computer science and the M.Sc. degrees in production engineering and in informatics from the Universidade Federal de Santa Maria (UFSM), and the Ph.D. degree in computing, and has carried out research at the University of Lisbon, the University of Luxembourg and Monash University. His interests include cybersecurity and adversarial AI, language models, AutoML, distributed systems and networks, and software artifact engineering.
 <br><br>
 <a href="https://orcid.org/0000-0003-0830-0238">ORCID</a> ·
 <a href="http://lattes.cnpq.br/2781747995973774">Lattes</a> ·
