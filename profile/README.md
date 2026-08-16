@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Open-source tools for managing Linux server fleets.</b><br>
-  Built at <a href="https://ai-horizon-labs.github.io/">AI Horizon Labs</a>, in Alegrete, Rio Grande do Sul, Brazil.
+  Built at <a href="https://ai-horizon-labs.github.io/">AI Horizon Labs</a>.
 </p>
 
 ## Tools
